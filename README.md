@@ -1,4 +1,4 @@
-# Yeoboe-crashbot
+# Yeoboecrash
 
 crash a system by making infinity directories 
 project is developed in python 
